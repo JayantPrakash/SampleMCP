@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jayantprakash-samplemcp-badge.png)](https://mseep.ai/app/jayantprakash-samplemcp)
+
 # SampleMCP
 
 A simple Python project demonstrating how to build and connect MCP servers using `FastMCP`, LangChain MCP adapters, LangGraph, and OpenAI.
